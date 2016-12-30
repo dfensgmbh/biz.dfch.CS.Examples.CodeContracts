@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace src
+namespace biz.dfch.CS.Examples.CodeContracts
 {
     public class Class1
     {
